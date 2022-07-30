@@ -1,3 +1,3 @@
 # Let's Eat Menu
 
-A hidden drawer menu fora restuarant created using flutter.
+A hidden drawer menu for a restuarant created using flutter.
